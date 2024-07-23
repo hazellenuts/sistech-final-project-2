@@ -26,7 +26,7 @@ const MainPageTemplate: React.FC<MainPageTemplateProps> = ({ handleNavigation, l
           </Text>
         </div>
         <div className="absolute bg-white p-20 pl-32 rounded-tr-3xl text-gray-800 bottom-12">
-          <b>/ni'hɔŋ.goʊ/</b><br /><br /><i>noun</i><br />
+          <b>/nihɔŋ.goʊ/</b><br /><br /><i>noun</i><br />
           A dynamic application designed for learning the Japanese language,<br />where users can enhance their linguistic skills through interactive activities<br />such as reading news articles, watching educational videos,<br />and completing various exercises aimed at both beginners and<br />advanced learners.
         </div>
       </div>
